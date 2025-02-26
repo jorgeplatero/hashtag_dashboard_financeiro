@@ -8,4 +8,4 @@ Dashboard financeiro realizado em curso de Power BI da Hashtag.
 
 ## Link para a Aplicação
 
-Dashboard Streamlit: <a style="text-decoration:none;" href="https://app.powerbi.com/view?r=eyJrIjoiNzU4MWY1ODgtZDNiMC00MzQ1LWFkZGYtMjFjZDQ0YTI5YWEwIiwidCI6IjFmZTA1YTY2LWNhMjYtNGJmZC1hZDlkLWQzMDRhZGViMjIwNSJ9" target="_blank">link</a>.
+Dashboard Power BI: <a style="text-decoration:none;" href="https://app.powerbi.com/view?r=eyJrIjoiNzU4MWY1ODgtZDNiMC00MzQ1LWFkZGYtMjFjZDQ0YTI5YWEwIiwidCI6IjFmZTA1YTY2LWNhMjYtNGJmZC1hZDlkLWQzMDRhZGViMjIwNSJ9" target="_blank">link</a>.
